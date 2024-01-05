@@ -2,7 +2,7 @@ repo_name: hicmtrex/Meetups-nextjs
 report_id: 1653e0aec97435931a4f7e6cd4c529fe
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:33:42+00:00'
+timestamp: '2024-01-05T08:17:12+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hicmtrex/Meetups-nextjs
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/Meetups-nextjs
   detection_source: Repo Metadata
 - name: Next.js
   description: 'A small framework for server-rendered universal JavaScript apps '
@@ -75,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/Meetups-nextjs
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -84,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hicmtrex/Meetups-nextjs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-10-19 16:46:25.000000000 Z
