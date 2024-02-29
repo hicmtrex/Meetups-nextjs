@@ -2,7 +2,7 @@ repo_name: hicmtrex/Meetups-nextjs
 report_id: 1653e0aec97435931a4f7e6cd4c529fe
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:12+00:00'
+timestamp: '2024-02-29T19:10:04+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/hicmtrex/Meetups-nextjs
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 10.0.6
   open_source: true
